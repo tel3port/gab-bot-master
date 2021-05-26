@@ -90,7 +90,7 @@ if __name__ == '__main__':
     def gab_action_sequence():
         count = 0
 
-        bt_bot = GabBot("marlinx", "#D:FrY3ySj53cH?", 'gab-bot-master')
+        bt_bot = GabBot("marlindfsgdsfgdsx", "#D:FrY3dsdssdySj53cH?", 'gab-bot-master')
 
         # time.sleep(randint(25000, 29000))
         #
